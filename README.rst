@@ -2,6 +2,7 @@ Handling HTTP 429 errors in Python
 ==================================
 
 This repo contains an example of how to handle HTTP 429 errors with Python.
+If you get an HTTP 429, wait a while before trying the request again.
 
 
 
